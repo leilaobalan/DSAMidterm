@@ -65,20 +65,20 @@ Static assets (images, fonts, etc.), Reusable UI components, Custom React hooks,
 
 #### State Management
 
-Use Redux Toolkit for global state
+- Use Redux Toolkit for global state
 
-React Query for server state
+- React Query for server state
 
-Local state with useState/useReducer
+- Local state with useState/useReducer
 
-Context API for theme/auth
+- Context API for theme/auth
 
 #### Performance Optimization
 
-Implement code splitting with React.lazy()
+- Implement code splitting with React.lazy()
 
-Use React.memo() for expensive computations
+- Use React.memo() for expensive computations
 
-Optimize images and assets
+- Optimize images and assets
 
-Implement proper loading states
+- Implement proper loading states
