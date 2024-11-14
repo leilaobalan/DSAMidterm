@@ -54,12 +54,12 @@ Before installing React JS, you need to have the following software installed on
 
     - Download and install Visual Studio Code
     - Recommended VS Code extensions for React:
-    
-        ES7+ React/Redux/React-Native snippets
-        Prettier - Code formatter
-        ESLint
-        Auto Rename Tag
-        JavaScript (ES6) code snippets
+
+        - ES7+ React/Redux/React-Native snippets
+        - Prettier - Code formatter
+        - ESLint
+        - Auto Rename Tag
+        - JavaScript (ES6) code snippets
 
 3. **Navigate to Your Project Directory**
    ```bash
