@@ -132,3 +132,15 @@ Static assets (images, fonts, etc.), Reusable UI components, Custom React hooks,
 - Optimize images and assets
 
 - Implement proper loading states
+
+---
+
+🙋‍♂️ Support
+
+- Star this repository
+- Follow for updates
+- Report issues
+- Submit PRs
+
+---
+Made with ❤️ by leilei cutie
