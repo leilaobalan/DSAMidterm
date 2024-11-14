@@ -54,3 +54,18 @@ Before installing React JS, you need to have the following software installed on
 3. **Navigate to Your Project Directory**
    ```bash
    cd my-custom-react-app 
+
+---
+### 📁 Project Structure
+
+src/
+├── assets/          # Static assets (images, fonts, etc.)
+├── components/      # Reusable UI components
+├── hooks/           # Custom React hooks
+├── layouts/         # Layout components
+├── pages/           # Page components
+├── services/        # API services
+├── store/          # Redux store configuration
+├── styles/         # Global styles
+├── types/          # TypeScript type definitions
+└── utils/          # Utility functions
