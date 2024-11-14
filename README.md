@@ -76,6 +76,9 @@ Context API for theme/auth
 #### Performance Optimization
 
 Implement code splitting with React.lazy()
+
 Use React.memo() for expensive computations
+
 Optimize images and assets
+
 Implement proper loading states
