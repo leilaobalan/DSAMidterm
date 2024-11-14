@@ -75,10 +75,31 @@ Before installing React JS, you need to have the following software installed on
         ```bash
         cd my-react-app
         ```
+
         #### Start the development server
         ```bash
         npm start
         ```
+        2. Using Vite (Modern, Faster Method)
+        #### Create a new project with Vite
+        ```bash
+        npm create vite@latest my-react-app -- --template react
+         ```
+
+        #### Navigate to project directory
+        ```bash
+        cd my-react-app
+         ```
+
+        #### Install dependencies
+        ```bash
+        npm install
+         ```
+
+        #### Start the development server
+        ```bash
+        npm run dev
+         ```
 
 
 ---
