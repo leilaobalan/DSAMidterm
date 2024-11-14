@@ -58,11 +58,19 @@ Before installing React JS, you need to have the following software installed on
 ---
 ### 📁 Project Structure
 
+
 Static assets (images, fonts, etc.)
+
 Reusable UI components
+
 Custom React hooks
+
 Layout components
+
 Page components
+
 API services
+
 Redux store configuration
+
 Utility functions
