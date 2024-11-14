@@ -35,7 +35,7 @@ Before installing React JS, you need to have the following software installed on
 - **Node.js**: React relies on Node.js for package management (NPM/Yarn). You can download it from [Node.js official website](https://nodejs.org/).
 - **Code Editor**: A good code editor like [Visual Studio Code](https://code.visualstudio.com/) is recommended for React development.
 
-### Step-by-Step Installation
+#### Step-by-Step Installation
 
 1. **Install Node.js and NPM**
     - Visit Node.js website
@@ -123,7 +123,7 @@ Static assets (images, fonts, etc.), Reusable UI components, Custom React hooks,
 - Context API for theme/auth
 
 
- #### Performance Optimization
+ ### Performance Optimization
 
 - Implement code splitting with React.lazy()
 
@@ -135,7 +135,7 @@ Static assets (images, fonts, etc.), Reusable UI components, Custom React hooks,
 
 ---
 
-🙋‍♂️ Support
+### 🙋‍♂️ Support
 
 - Star this repository
 - Follow for updates
