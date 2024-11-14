@@ -47,9 +47,6 @@ Before installing React JS, you need to have the following software installed on
       npm -v
       ```
 
-  
-
-
 2. **Install a Code Editor**
 
     - Download and install Visual Studio Code
@@ -65,6 +62,21 @@ Before installing React JS, you need to have the following software installed on
    ```bash
    cd my-custom-react-app 
 
+   
+4. **Creating a New React Project**
+Create React App (Traditional Method)
+#### Create a new project
+ ```bash
+ npx create-react-app my-react-app
+
+#### Navigate to project directory
+ ```bash 
+ cd my-react-app
+
+#### Start the development server
+ ```bash
+ npm start
+ 
 ---
 ### 📁 Project Structure
 
