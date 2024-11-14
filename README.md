@@ -43,8 +43,8 @@ Before installing React JS, you need to have the following software installed on
     - Run the installer and follow the installation wizard
     - Verify installation by opening terminal/command prompt:
         ```bash
-     node -v
-     npm -v
+    node -v
+    npm -v
      ```
 
 
