@@ -62,6 +62,7 @@ Before installing React JS, you need to have the following software installed on
 Static assets (images, fonts, etc.), Reusable UI components, Custom React hooks, Layout components, Page components, API services, Redux store configuration, Utility functions
 
 ---
+### 🎯 Development Best Practices
 
  #### State Management
 
@@ -72,6 +73,7 @@ Static assets (images, fonts, etc.), Reusable UI components, Custom React hooks,
 - Local state with useState/useReducer
 
 - Context API for theme/auth
+
 
  #### Performance Optimization
 
