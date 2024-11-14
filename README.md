@@ -42,11 +42,12 @@ Before installing React JS, you need to have the following software installed on
     - Download the LTS (Long Term Support) version
     - Run the installer and follow the installation wizard
     - Verify installation by opening terminal/command prompt:
-        ```bash
-    node -v
-    npm -v
-     ```
+      ```bash
+      node -v
+      npm -v
+      ```
 
+  
 
 
 2. **Create a New React Application**
