@@ -65,23 +65,26 @@ Before installing React JS, you need to have the following software installed on
    
 4. **Creating a New React Project**
 
-Create React App (Traditional Method)
+1. Create React App (Traditional Method)
 
 #### Create a new project
- ```bash
- npx create-react-app my-react-app
+```bash
+npx create-react-app my-react-app
+```
 
 #### Navigate to project directory
- ```bash 
- cd my-react-app
+```bash
+cd my-react-app
+```
 
 #### Start the development server
- ```bash
- npm start
-
+```bash
+npm start
+```
 
 
 ---
+
 ### 📁 Project Structure
 
 
