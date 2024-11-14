@@ -63,7 +63,7 @@ Static assets (images, fonts, etc.), Reusable UI components, Custom React hooks,
 
 ---
 
-#### State Management
+ #### State Management
 
 - Use Redux Toolkit for global state
 
@@ -73,7 +73,7 @@ Static assets (images, fonts, etc.), Reusable UI components, Custom React hooks,
 
 - Context API for theme/auth
 
-#### Performance Optimization
+ #### Performance Optimization
 
 - Implement code splitting with React.lazy()
 
