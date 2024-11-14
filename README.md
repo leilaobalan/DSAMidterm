@@ -37,7 +37,7 @@ Before installing React JS, you need to have the following software installed on
 
 ### Step-by-Step Installation
 
-1. Install Node.js and NPM
+1. **Install Node.js and NPM**
     - Visit Node.js website
     - Download the LTS (Long Term Support) version
     - Run the installer and follow the installation wizard
@@ -50,12 +50,16 @@ Before installing React JS, you need to have the following software installed on
   
 
 
-2. **Create a New React Application**
-   - Open your terminal and run the following command:
-     ```bash
-     npx create-react-app my-custom-react-app
-     ```
-   - This command creates a new React project named `my-custom-react-app`. It installs all necessary dependencies and sets up the project structure.
+2. ** Install a Code Editor**
+
+    - Download and install Visual Studio Code
+    - Recommended VS Code extensions for React:
+
+ES7+ React/Redux/React-Native snippets
+Prettier - Code formatter
+ESLint
+Auto Rename Tag
+JavaScript (ES6) code snippets
 
 3. **Navigate to Your Project Directory**
    ```bash
